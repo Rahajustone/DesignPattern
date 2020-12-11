@@ -1,0 +1,13 @@
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.exe
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.deps.json
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.runtimeconfig.json
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.runtimeconfig.dev.json
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.dll
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.pdb
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csprojAssemblyReference.cache
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfoInputs.cache
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfo.cs
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.dll
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.pdb
+C:\Users\khrah\source\repos\DesignPattern\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.genruntimeconfig.cache
